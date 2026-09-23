@@ -1,8 +1,8 @@
 {
-  "year": 2026,
-  "version": "2026.1",
+  "year": 2027,
+  "version": "2027.1",
   "country": "Türkiye",
-  "generated_at": "2026-05-05T12:23:58",
+  "generated_at": "2026-09-15T19:45:15",
   "province_count": 81,
   "district_count": 869,
   "iller": [
@@ -124,8 +124,8 @@
       ]
     },
     {
-      "name": "Afyonkarahı̇sar",
-      "slug": "afyonkarahi-sar",
+      "name": "Afyonkarahisar",
+      "slug": "afyonkarahisar",
       "ilceler": [
         {
           "id": 9167,
@@ -561,8 +561,8 @@
       ]
     },
     {
-      "name": "Artvı̇n",
-      "slug": "artvi-n",
+      "name": "Artvin",
+      "slug": "artvin",
       "ilceler": [
         {
           "id": 9244,
@@ -703,8 +703,8 @@
       ]
     },
     {
-      "name": "Balıkesı̇r",
-      "slug": "balikesi-r",
+      "name": "Balıkesir",
+      "slug": "balikesir",
       "ilceler": [
         {
           "id": 9269,
@@ -882,8 +882,8 @@
       ]
     },
     {
-      "name": "Bı̇lecı̇k",
-      "slug": "bi-leci-k",
+      "name": "Bilecik",
+      "slug": "bilecik",
       "ilceler": [
         {
           "id": 9297,
@@ -928,8 +928,8 @@
       ]
     },
     {
-      "name": "Bı̇ngöl",
-      "slug": "bi-ngol",
+      "name": "Bingöl",
+      "slug": "bingol",
       "ilceler": [
         {
           "id": 17889,
@@ -969,8 +969,8 @@
       ]
     },
     {
-      "name": "Bı̇tlı̇s",
-      "slug": "bi-tli-s",
+      "name": "Bitlis",
+      "slug": "bitlis",
       "ilceler": [
         {
           "id": 9309,
@@ -1391,8 +1391,8 @@
       ]
     },
     {
-      "name": "Denı̇zlı̇",
-      "slug": "deni-zli",
+      "name": "Denizli",
+      "slug": "denizli",
       "ilceler": [
         {
           "id": 19020,
@@ -1487,8 +1487,8 @@
       ]
     },
     {
-      "name": "Dı̇yarbakır",
-      "slug": "di-yarbakir",
+      "name": "Diyarbakır",
+      "slug": "diyarbakir",
       "ilceler": [
         {
           "id": 9397,
@@ -1609,8 +1609,8 @@
       ]
     },
     {
-      "name": "Edı̇rne",
-      "slug": "edi-rne",
+      "name": "Edirne",
+      "slug": "edirne",
       "ilceler": [
         {
           "id": 9419,
@@ -1721,8 +1721,8 @@
       ]
     },
     {
-      "name": "Erzı̇ncan",
-      "slug": "erzi-ncan",
+      "name": "Erzincan",
+      "slug": "erzincan",
       "ilceler": [
         {
           "id": 9439,
@@ -1873,8 +1873,8 @@
       ]
     },
     {
-      "name": "Eskı̇şehı̇r",
-      "slug": "eski-sehi-r",
+      "name": "Eskişehir",
+      "slug": "eskisehir",
       "ilceler": [
         {
           "id": 9467,
@@ -1944,8 +1944,8 @@
       ]
     },
     {
-      "name": "Gazı̇antep",
-      "slug": "gazi-antep",
+      "name": "Gaziantep",
+      "slug": "gaziantep",
       "ilceler": [
         {
           "id": 9478,
@@ -1990,8 +1990,8 @@
       ]
     },
     {
-      "name": "Gı̇resun",
-      "slug": "gi-resun",
+      "name": "Giresun",
+      "slug": "giresun",
       "ilceler": [
         {
           "id": 9486,
@@ -2112,7 +2112,7 @@
       ]
     },
     {
-      "name": "Hakkarı̇",
+      "name": "Hakkari",
       "slug": "hakkari",
       "ilceler": [
         {
@@ -2417,8 +2417,8 @@
       ]
     },
     {
-      "name": "İzmı̇r",
-      "slug": "izmi-r",
+      "name": "İzmir",
+      "slug": "izmir",
       "ilceler": [
         {
           "id": 9552,
@@ -2803,7 +2803,7 @@
       ]
     },
     {
-      "name": "Kayserı̇",
+      "name": "Kayseri",
       "slug": "kayseri",
       "ilceler": [
         {
@@ -2874,8 +2874,8 @@
       ]
     },
     {
-      "name": "Kı̇lı̇s",
-      "slug": "ki-li-s",
+      "name": "Kilis",
+      "slug": "kilis",
       "ilceler": [
         {
           "id": 9628,
@@ -2941,7 +2941,7 @@
       ]
     },
     {
-      "name": "Kırklarelı̇",
+      "name": "Kırklareli",
       "slug": "kirklareli",
       "ilceler": [
         {
@@ -2982,8 +2982,8 @@
       ]
     },
     {
-      "name": "Kırşehı̇r",
-      "slug": "kirsehi-r",
+      "name": "Kırşehir",
+      "slug": "kirsehir",
       "ilceler": [
         {
           "id": 20039,
@@ -3018,7 +3018,7 @@
       ]
     },
     {
-      "name": "Kocaelı̇",
+      "name": "Kocaeli",
       "slug": "kocaeli",
       "ilceler": [
         {
@@ -3377,8 +3377,8 @@
       ]
     },
     {
-      "name": "Manı̇sa",
-      "slug": "mani-sa",
+      "name": "Manisa",
+      "slug": "manisa",
       "ilceler": [
         {
           "id": 9707,
@@ -3463,8 +3463,8 @@
       ]
     },
     {
-      "name": "Mardı̇n",
-      "slug": "mardi-n",
+      "name": "Mardin",
+      "slug": "mardin",
       "ilceler": [
         {
           "id": 9723,
@@ -3514,8 +3514,8 @@
       ]
     },
     {
-      "name": "Mersı̇n",
-      "slug": "mersi-n",
+      "name": "Mersin",
+      "slug": "mersin",
       "ilceler": [
         {
           "id": 9731,
@@ -3672,8 +3672,8 @@
       ]
     },
     {
-      "name": "Nevşehı̇r",
-      "slug": "nevsehi-r",
+      "name": "Nevşehir",
+      "slug": "nevsehir",
       "ilceler": [
         {
           "id": 9757,
@@ -3708,8 +3708,8 @@
       ]
     },
     {
-      "name": "Nı̇ğde",
-      "slug": "ni-gde",
+      "name": "Niğde",
+      "slug": "nigde",
       "ilceler": [
         {
           "id": 9762,
@@ -3830,8 +3830,8 @@
       ]
     },
     {
-      "name": "Osmanı̇ye",
-      "slug": "osmani-ye",
+      "name": "Osmaniye",
+      "slug": "osmaniye",
       "ilceler": [
         {
           "id": 9784,
@@ -3871,8 +3871,8 @@
       ]
     },
     {
-      "name": "Rı̇ze",
-      "slug": "ri-ze",
+      "name": "Rize",
+      "slug": "rize",
       "ilceler": [
         {
           "id": 9791,
@@ -4120,8 +4120,8 @@
       ]
     },
     {
-      "name": "Sı̇ı̇rt",
-      "slug": "si-i-rt",
+      "name": "Siirt",
+      "slug": "siirt",
       "ilceler": [
         {
           "id": 9835,
@@ -4156,8 +4156,8 @@
       ]
     },
     {
-      "name": "Sı̇nop",
-      "slug": "si-nop",
+      "name": "Sinop",
+      "slug": "sinop",
       "ilceler": [
         {
           "id": 9840,
@@ -4248,8 +4248,8 @@
       ]
     },
     {
-      "name": "Sı̇vas",
-      "slug": "si-vas",
+      "name": "Sivas",
+      "slug": "sivas",
       "ilceler": [
         {
           "id": 9856,
@@ -4339,8 +4339,8 @@
       ]
     },
     {
-      "name": "Tekı̇rdağ",
-      "slug": "teki-rdag",
+      "name": "Tekirdağ",
+      "slug": "tekirdag",
       "ilceler": [
         {
           "id": 9872,
@@ -4552,7 +4552,7 @@
       ]
     },
     {
-      "name": "Tuncelı̇",
+      "name": "Tunceli",
       "slug": "tunceli",
       "ilceler": [
         {
@@ -4837,5 +4837,13 @@
         }
       ]
     }
-  ]
+  ],
+  "kapsam": {
+    "yillar": [
+      2026,
+      2027
+    ],
+    "bas": "2026-01-01",
+    "son": "2027-12-31"
+  }
 }
